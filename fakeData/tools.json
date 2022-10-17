@@ -1,0 +1,164 @@
+{
+  "users":[
+    {
+      "id":1,
+      "gender":"male",
+      "name":"Md Nazim Hossain",
+      "contact":{
+        "phone":"01323834314",
+        "gmail":"nazimhossaindpi@gmail.com"
+      },
+      "address":{
+        "country":"Bangladesh",
+        "city":"dhaka",
+        "streat":"Bti Bhaban,uttara sector-15, Dhaka-1231"
+      },
+      "photoUrl":"https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80E"
+      
+    },
+    {
+      "id":2,
+      "gender":"female",
+      "name":"Gleo Mari",
+      "contact":{
+        "phone":"+09877665678",
+        "gmail":"gleomari@gmail.com"
+      },
+      "address":{
+        "country":"Australia",
+        "city":"Sydney",
+        "streat":"Sydney,Australia"
+      },
+      "photoUrl":"https://images.unsplash.com/photo-1606893995103-a431bce9c219?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+      
+    },
+    {
+      "id":3,
+      "gender":"male",
+      "name":"Vlodimir Bolod",
+      "contact":{
+        "phone":"+9088777667",
+        "gmail":"vlodimirbolod@gmail.com"
+      },
+      "address":{
+        "country":"Ukraine",
+        "city":"Kyiv",
+        "streat":"Kyiv,Ukraine"
+      },
+      "photoUrl":"https://img.freepik.com/free-photo/afro-man_1368-2754.jpg?w=740&t=st=1665990057~exp=1665990657~hmac=3a9721adb9c69a4ee7a75e190ad65739c3e08c5db0db6056b89f1c55bc3c34f9"
+      
+    },
+    {
+      "id":4,
+      "gender":"male",
+      "name":"Vladimir Sergue",
+      "contact":{
+        "phone":"+99878787897",
+        "gmail":"vladimirsergue@gmail.com"
+      },
+      "address":{
+        "country":"Russia",
+        "city":"Moscow",
+        "streat":"Russia,Moscow"
+      },
+      "photoUrl":"https://img.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg?w=996&t=st=1665989924~exp=1665990524~hmac=43b092a62ce9f88f44d15dfb770c114023d78eb1481898a63acd894f673dfe36"
+      
+    },
+    {
+      "id":5,
+      "gender":"male",
+      "name":"Alexis Snchez",
+      "contact":{
+        "phone":"+765647577",
+        "gmail":"alexissanchez@gmail.com"
+      },
+      "address":{
+        "country":"Brazil",
+        "city":"Rio",
+        "streat":"Rio,Brazil"
+      },
+      "photoUrl":"https://plus.unsplash.com/premium_photo-1661255419770-66ab75d345ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"
+      
+    },
+    {
+      "id":6,
+      "gender":"female",
+      "name":"Quanda Francis",
+      "contact":{
+        "phone":"+6657485844",
+        "gmail":"quandafrancis@gmail.com"
+      },
+      "address":{
+        "country":"Canada",
+        "city":"Toronto",
+        "streat":"Toronto,Canada"
+      },
+      "photoUrl":"https://images.unsplash.com/photo-1544465544-1b71aee9dfa3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      
+    },
+    {
+      "id":7,
+      "gender":"female",
+      "name":"Selina Handra",
+      "contact":{
+        "phone":"+95858545774",
+        "gmail":"selinahandra@gmail.com"
+      },
+      "address":{
+        "country":"Germany",
+        "city":"Berlin",
+        "streat":"Berlin,Germany"
+      },
+      "photoUrl":"https://images.unsplash.com/photo-1482482097755-0b595893ba63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+      
+    },
+    {
+      "id":8,
+      "gender":"male",
+      "name":"Sheikh Anik",
+      "contact":{
+        "phone":"01674473733",
+        "gmail":"sheikanik@gmail.com"
+      },
+      "address":{
+        "country":"Bangladesh",
+        "city":"Faridpur",
+        "streat":"House-#64,Road-13,Banga Sadar,Faridpur"
+      },
+      "photoUrl":"https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80E"
+      
+    },
+    {
+      "id":9,
+      "gender":"female",
+      "name":"Alexa Henz",
+      "contact":{
+        "phone":"+90483434483",
+        "gmail":"alexahenz@gmail.com"
+      },
+      "address":{
+        "country":"USA",
+        "city":"New York",
+        "streat":"New York City,USA"
+      },
+      "photoUrl":"https://images.unsplash.com/photo-1554080353-a576cf803bda?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      
+    },
+    {
+      "id":10,
+      "gender":"male",
+      "name":"Jaminur Islam",
+      "contact":{
+        "phone":"01875747544",
+        "gmail":"jaminurislam@gmail.com"
+      },
+      "address":{
+        "country":"Bangladesh",
+        "city":"Tangail",
+        "streat":"House-#25,road-14,Tangail Sadar, Tangail"
+      },
+      "photoUrl":"https://images.unsplash.com/photo-1530365508419-012585d6aba4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"
+      
+    }
+  ]
+}
