@@ -2,7 +2,9 @@
 
 # describe the all api uses note: all route are include in v1 folder v1 means version 1
 
-#base url with port uses :http://localhost:5000
+#base url with port uses :http://localhost:5000;
+#live server base url:https://express-random-users-i1yu1dfyr-md-nazim-hossain.vercel.app
+#vercel live srever link get all users: https://express-random-users-i1yu1dfyr-md-nazim-hossain.vercel.app/api/v1/user/all
 
 #get method description #<ul>
 
