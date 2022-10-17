@@ -10,6 +10,7 @@
 
 <li>Get all user Api endpoints: /api/v1/users/all</li>
 <li>You can get users with limit you can pass query paramitter endpoints:/api/v1/users/all?limit=1</li>
+<li>You can get signle users  you can pass params id paramitter endpoints:/api/v1/users/random/1</li>
 
 </ul>
 
